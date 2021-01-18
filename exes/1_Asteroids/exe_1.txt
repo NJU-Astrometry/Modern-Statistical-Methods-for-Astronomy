@@ -1,0 +1,1 @@
+Estimate the distribution of asteroid densities, with and without weighting by the mea- surement errors, using a variety ofdensity estimation techniques. Estimate the moments of the distribution.
